@@ -5,7 +5,7 @@
 
 [**Learn How To Learn**](https://www.coursera.org/learn/learning-how-to-learn)
 
-- [ ] Week1
+- [x] Week1
 - [ ] Week2
 - [ ] Week3
 - [ ] Week4
