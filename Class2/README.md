@@ -15,4 +15,4 @@
 > 11. [ ] Organizing Data with Tables
 > 12. [ ] Writing Your Best Code
 
-- [x] [HTML for BBC Website](./Homework_Solutions/BBC_Website/index.html)
+- [x] [HTML for BBC Website](./Homework/BBC_Website/index.html)
