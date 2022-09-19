@@ -6,6 +6,6 @@
 [**Learn How To Learn**](https://www.coursera.org/learn/learning-how-to-learn)
 
 - [x] Week1
-- [ ] Week2
+- [x] Week2
 - [ ] Week3
 - [ ] Week4
