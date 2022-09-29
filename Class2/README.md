@@ -2,7 +2,7 @@
 
 - [shayhowe](https://learn.shayhowe.com/html-css/)
 
-> 1.  [ ] Building Your First Web Page
+> 1.  [x] Building Your First Web Page
 > 2.  [ ] Getting to Know HTML
 > 3.  [ ] Getting to Know CSS
 > 4.  [ ] Opening the Box Model
